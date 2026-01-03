@@ -29,7 +29,8 @@ iOS (iPhone)
  https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub4.txt
  https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub5.txt
  https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub2.txt
- https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub.txt              
+ https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub.txt
+ https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/all-servers.txt              
  7. Нажми Добавить / Импортировать
  8. Дождись загрузки серверов
 

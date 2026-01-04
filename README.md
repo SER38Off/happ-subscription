@@ -27,12 +27,19 @@ iOS (iPhone)
  2. Перейди в раздел Подписки / Profiles / Sources
  3. Нажми Добавить или +
  4. Выбери Добавить по ссылке (URL)
- 5. Вставь ссылку подписки [Любую на выбор, но лучше проверить какая работает лучше]: https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub3.txt
+ 5. Вставь ссылку подписки [Любую на выбор, но лучше проверить какая работает лучше]:
+ https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub3.txt
  https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub4.txt
  https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub5.txt
  https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub2.txt
  https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub.txt
- https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/all-servers.txt              
+ https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/all-servers.txt
+ https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub6.txt
+ https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub7.txt
+ https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub8.txt
+ https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub9.txt
+ https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub10.txt
+            
  7. Нажми Добавить / Импортировать
  8. Дождись загрузки серверов
 

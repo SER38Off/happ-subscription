@@ -1,61 +1,89 @@
 FluxVPN⚡
 Официальный ТГК моего бесплатного VPN сервиса: https://t.me/FluxVPNOff
 Мой VPN полностью бесплатный без рекламы, платных подписок и привязок карт. Что бы сервис продалжал дальше работать подпишитесь пожалуйста на мой ТГК выше
-📥 Как скачать Happ и добавить подписку VPN
+Всё тут👇
 
-1️⃣ Установка приложения Happ
+Тг бот: https://t.me/FluxVPNOff_bot
 
-Android
- 1. Открой Google Play
- 2. Найди приложение Happ
- 3. Установи и открой приложение
+Проголосовать за  тгк FluxVPN: 
+https://t.me/boost/FluxVPNOff
 
-Если приложение недоступно в Google Play — установи APK-файл Happ из официального источника.
+Мой тик ток: https://www.tiktok.com/@fluxvpnoff
 
-⸻
+Новая подписка [С авто обновлением] В этой подписке будет обновление серверов. Т.е если ркн блокирует сервера которые были раньше, то подписка переходит на другие сервера и vpn будет работать главное нажать на кнопку 🔄
 
-iOS (iPhone)
- 1. Открой App Store
- 2. Найди приложение Happ
- 3. Установи и открой приложение
+https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt
 
-⸻
+Когда вы добавили подписку  нужно на спидометр нажать и там будет пинг типо мс где меньше, там лучше работает. А если н/а или н/д то это вообще не работает
 
-2️⃣ Добавление подписки VPN
- 1. Открой приложение Happ
- 2. Перейди в раздел Подписки / Profiles / Sources
- 3. Нажми Добавить или +
- 4. Выбери Добавить по ссылке (URL)
- 5. Вставь ссылку подписки [Любую на выбор, но лучше проверить какая работает лучше]:
- https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub3.txt
- https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub4.txt
- https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub5.txt
- https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub2.txt
- https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub.txt
- https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/all-servers.txt
- https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub6.txt
- https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub7.txt
- https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub8.txt
- https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub9.txt
- https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub10.txt
-            
- 7. Нажми Добавить / Импортировать
- 8. Дождись загрузки серверов
+Донат:
+Те кто хочет может меня поддержать могут отправить мне деньги . 
+Есть 2 способа:
+
+1. По ссылке (там будет комиссия для меня) :
+https://www.donationalerts.com/r/ser_38
+
+2. Переводом (комиссии нету) : 2202 2067 8926 6512
+
+Инструкция по скачиванию и добавлению подписки в happ:
+
+📱 Android (телефон / планшет)
+ 1. Открой Happ
+ 2. Перейди в Подписки или Профили
+ 3. Нажми ➕ Добавить
+ 4. Выбери Добавить по ссылке
+ 5. Вставь ссылку подписки
+ 6. Нажми Сохранить
+ 7. Вернись на главный экран и включи VPN
+
+✅ Готово
 
 ⸻
 
-3️⃣ Подключение VPN
- 1. Вернись на главный экран приложения
- 2. Выбери любой сервер из списка
- 3. Нажми Подключиться
- 4. Разреши создание VPN-профиля
+📺 Android TV
 
-VPN подключён ✅
+(пульт вместо тача, но шаги те же)
+ 1. Запусти Happ
+ 2. Зайди в Subscriptions / Profiles
+ 3. Нажми Add
+ 4. Выбери From URL
+ 5. Вставь ссылку
+👉 если неудобно — вставь через:
+ • Google Keyboard
+ • или заранее скопируй ссылку с телефона через Google аккаунт
+ 6. Сохрани и включи VPN
 
 ⸻
 
-❗️ Если не подключается
- • Попробуй другой сервер
- • Обнови подписку
- • Перезапусти приложение
+🍎 iPhone / iPad (iOS)
+ 1. Открой Happ
+ 2. Перейди в Profiles / Subscriptions
+ 3. Нажми Add
+ 4. Выбери Import from URL
+ 5. Вставь ссылку подписки
+ 6. Подтверди добавление профиля
+ 7. Разреши VPN в системном окне iOS
+ 8. Включи VPN в приложении
 
+⚠️ Первый раз iOS попросит разрешение — это нормально
+
+⸻
+
+💻 Компьютер (Windows / macOS / Linux)
+ 1. Запусти Happ
+ 2. Открой Profiles / Subscriptions
+ 3. Нажми Add
+ 4. Вставь ссылку подписки
+ 5. Сохрани
+ 6. Выбери сервер (если нужно)
+ 7. Нажми Connect
+
+⸻
+
+🔁 Если подписка не работает
+
+Попробуй:
+ • Нажать Обновить подписку / Update
+ • Удалить подписку и добавить заново
+ • Проверить, что ссылка активна и не просрочена
+ • Перезапустить приложение

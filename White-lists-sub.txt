@@ -1,3 +1,7 @@
+#profile-title: www.flux-speed.ru
+#profile-traffic: 999 GB / ∞
+#profile-expiry: 2335
+#profile-count: 50
 vless://d63129ab-04a5-4797-8a70-84f4ab610ca9@217.16.16.251:8443?encryption=none&fp=chrome&pbk=bPN2gQ-96uG3DZONnduotvwViMDsUsN2XZnRkzXcMxk&security=reality&sid=edc87d796657fbe5&sni=eh.vk.vom&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%231
 vless://309fa273-6579-4cb2-9143-7cad50401eba@185.130.114.219:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&security=reality&sid=7cad5040&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%232
 vless://77550287-7875-4b45-b03e-6968074a1f68@95.163.251.109:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=n04-NAdCmcRoQL_4gpqea3iliUAAXtQU3RBlnhSk1wE&security=reality&sid=97&sni=www.vk.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%233

@@ -1,3 +1,7 @@
+#profile-title: www.flux-speed.ru
+#profile-traffic: 999 GB / ∞
+#profile-expiry: 2335
+#profile-count: 50
 vless://87d58e85-a4b3-4187-9fb7-6f0a73b21a6b@178.154.202.67:4249?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Nwyu95mrEJ0vDgB2RAbkkpMyulXzeq2mLLYpsTJYsmg&security=reality&sid=a20d3ed244c76426&sni=sun6-22.userapi.com#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%20%5B%2ACIDR%5D%20YA
 vless://4fe214fb-048e-431f-b939-4518dc9df6a2@178.154.202.67:4249?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Nwyu95mrEJ0vDgB2RAbkkpMyulXzeq2mLLYpsTJYsmg&security=reality&sid=a20d3ed244c76426&sni=sun6-22.userapi.com&type=tcp#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%20%5B%2ACIDR%5D%20YA
 vless://87d58e85-a4b3-4187-9fb7-6f0a73b21a6b@178.154.240.168:8090?encryption=none&security=reality&sni=taxi.yandex.ru&fp=qq&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=6b2f4e6ac9b1d2f0&type=xhttp&path=/&mode=auto&packetEncoding=xudp#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%20%5B%2ACIDR%5D%20YA

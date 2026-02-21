@@ -1,3 +1,7 @@
+#profile-title: www.flux-speed.ru
+#profile-traffic: 999 GB / ∞
+#profile-expiry: 2335
+#profile-count: 50
 vless://0ee2d410-3e64-4c41-a571-3e5d2b5b8982@144.31.131.0:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=bel.speedload.online&fp=qq&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&packetEncoding=xudp#%F0%9F%87%A7%F0%9F%87%BE%20Belarus%20%5B%2ACIDR%5D
 vless://0ee2d410-3e64-4c41-a571-3e5d2b5b8982@144.31.131.224:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mold.speedload.online&fp=qq&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&packetEncoding=xudp#%F0%9F%87%A7%F0%9F%87%BE%20Belarus%20%5B%2ACIDR%5D
 vless://0ee2d410-3e64-4c41-a571-3e5d2b5b8982@144.31.131.64:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aus.speedload.online&fp=qq&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&packetEncoding=xudp#%F0%9F%87%A7%F0%9F%87%BE%20Belarus%20%5B%2ACIDR%5D

@@ -1,3 +1,8 @@
+
+#profile-title: www.flux-speed.ru
+#profile-traffic: 999 GB / ∞
+#profile-expiry: 2335
+#profile-count: 50
 vless://cfe3363b-5b32-4e4e-a5fb-805fa0c91981@95.163.183.208:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=S32mlMTWidNhxQWDV5tmdU3a60i71alH5nVfl4GnyVQ&security=reality&sid=43e482b8ba87174b&sni=sun6-22.userapi.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%231
 vless://df0069ff-8af9-4a46-804c-f8d038d26afd@95.163.215.93:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=YLMwM-5UbvqEgVWpg3z9Q3W5nCXscRdKV285z_Vmr0Y&security=reality&sid=a4fae7ee08c43ade&sni=sun6-22.userapi.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%232
 vless://cfe3363b-5b32-4e4e-a5fb-805fa0c91981@95.163.183.208:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=gKP71Sngd6wzxOmzLdjsU-VW8BGKAS6AZSCrvUCASyk&security=reality&sid=c5ae63ea7da57035&sni=api-maps.yandex.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%233

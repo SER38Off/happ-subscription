@@ -1,3 +1,7 @@
+#profile-title: www.flux-speed.ru
+#profile-traffic: 999 GB / ∞
+#profile-expiry: 2335
+#profile-count: 50
 vless://67e631dd-9566-457f-82f1-9a06cafa6dc8@wangcai.cf.877774.xyz:8880?path=%2F%3Fed%3D2560%26Telegram%40freecodes&security=&encryption=none&host=snip.062797.xyz&type=ws#%5BOpenRay%5D%20Dynamic-7973
 trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@sub.danfeng.eu.org:443?path=%2F%3Fed&security=tls&insecure=0&type=ws&allowInsecure=0&sni=_acme-challenge.2go.cloudns.be#%5BOpenRay%5D%20Dynamic-7594
 vless://01de785a-e67c-44c6-b00e-5ede4c315dcf@144.31.0.194:443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=xhttp&sni=ign.com&sid=6ba85179e30d4fc2#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B*CIDR%5D

@@ -1,3 +1,9 @@
+#profile-title: FluxVPN⚡
+#support-url: www.flux-speed.ru
+#support-url: https://t.me/FluxVPNSup
+#profile-update-interval: 24
+#announce: UPD: 22.02.2026 15:00 |ТГК: @FluxVPNOff Сайт: www.flux-speed.ru
+################################
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443# FluxVPN%20@FluxVPNOff
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplN3lRS09lbEtNNFVJSkNaWUxyelFY@162.19.214.191:59724# Германия%20@FluxVPNOff
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMEhJQ0FmcVNES21EVFoyTkV4Tzdt@185.100.159.79:443# Германия%20@FluxVPNOff

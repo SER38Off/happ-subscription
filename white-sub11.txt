@@ -1,3 +1,9 @@
+#profile-title: FluxVPN⚡
+#support-url: www.flux-speed.ru
+#support-url: https://t.me/FluxVPNSup
+#profile-update-interval: 24
+#announce: UPD: 22.02.2026 15:00 |ТГК: @FluxVPNOff Сайт: www.flux-speed.ru
+################################
 vless://cfe3363b-5b32-4e4e-a5fb-805fa0c91981@95.163.183.208:443?encryption=none&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConcurrency%22%3A%224-7%22%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22noGRPCHeader%22%3Afalse%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&mode=stream-up&path=%2Fxhttp&pbk=P90QXg3WgIO1T_33fuNxTgaEEATbIm9D_v6aRWjrzz8&security=reality&sid=cab9570a8fad61b1&sni=static.rutube.ru&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%231
 vless://2ab7350e-78e4-4c35-8033-2fad2508094a@95.163.183.208:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=gKP71Sngd6wzxOmzLdjsU-VW8BGKAS6AZSCrvUCASyk&security=reality&sid=c5ae63ea7da57035&sni=api-maps.yandex.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%232
 vless://2ab7350e-78e4-4c35-8033-2fad2508094a@95.163.211.146:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ke4wTCA2ax0UJjg9T2TzutlptXE_M0i9yxFEGddeLjo&security=reality&sid=f828a652f906bbaf&sni=eh.vk.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%233

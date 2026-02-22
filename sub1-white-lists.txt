@@ -1,3 +1,9 @@
+#profile-title: FluxVPN⚡
+#support-url: www.flux-speed.ru
+#support-url: https://t.me/FluxVPNSup
+#profile-update-interval: 24
+#announce: UPD: 22.02.2026 15:00 |ТГК: @FluxVPNOff Сайт: www.flux-speed.ru
+################################
 vless://2b651798-49f7-455f-a5f3-c553dd2be542@188.72.103.3:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=ws.fjdjdjfjd.icu&mode=auto&path=%2F&security=tls&sni=ws.fjdjdjfjd.icu&type=xhttp#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B%2ACIDR%5D
 vless://2b651798-49f7-455f-a5f3-c553dd2be542@188.72.103.3:443?encryption=none&security=tls&sni=ws.fjdjdjfjd.icu&alpn=h2%2Chttp%2F1.1&fp=qq&type=xhttp&host=ws.fjdjdjfjd.icu&path=%2F&mode=auto&packetEncoding=xudp&name=TG%3AYoutubeUnBlockRu#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B%2ACIDR%5D
 vless://e5835209-52e9-429e-8ebb-e87113293236@212.233.89.104:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=MZz-39gknMNeg4P6vTV3zKLrbIzf87oxtKB1T-Vu-SQ&sni=tunnel.vk-apps.com&sid=491db313#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D

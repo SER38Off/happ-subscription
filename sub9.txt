@@ -1,3 +1,9 @@
+#profile-title: FluxVPN⚡
+#support-url: www.flux-speed.ru
+#support-url: https://t.me/FluxVPNSup
+#profile-update-interval: 24
+#announce: UPD: 22.02.2026 15:00 |ТГК: @FluxVPNOff Сайт: www.flux-speed.ru
+################################
 vless://dd618f98-8af3-413b-b4d7-f77afa40365d@178.154.202.67:4249?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Nwyu95mrEJ0vDgB2RAbkkpMyulXzeq2mLLYpsTJYsmg&security=reality&sid=a20d3ed244c76426&sni=sun6-22.userapi.com&type=tcp#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%20%5B%2ACIDR%5D
 vless://dd618f98-8af3-413b-b4d7-f77afa40365d@217.16.27.216:4249?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=2z8C1eWOMSZEYNoERS8E6f8jiWvY38Z4iebbYh8mtXc&security=reality&sid=a20d3ed244c76426&sni=apiok.ru&type=tcp#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%20%5B%2ACIDR%5D
 vless://dd618f98-8af3-413b-b4d7-f77afa40365d@217.16.27.216:4249?security=reality&encryption=none&pbk=2z8C1eWOMSZEYNoERS8E6f8jiWvY38Z4iebbYh8mtXc&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=apiok.ru&sid=a20d3ed244c76426#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%20%5B%2ACIDR%5D

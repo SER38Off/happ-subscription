@@ -1,7 +1,9 @@
-#profile-title: www.flux-speed.ru
-#profile-traffic: 999 GB / ∞
-#profile-expiry: 2335
-#profile-count: 50
+#profile-title: FluxVPN⚡
+#support-url: www.flux-speed.ru
+#support-url: https://t.me/FluxVPNSup
+#profile-update-interval: 24
+#announce: UPD: 22.02.2026 15:00 |ТГК: @FluxVPNOff Сайт: www.flux-speed.ru
+################################
 vless://0f6c83bc-34ba-4ca1-96e6-08b3620cbce5@217.16.20.134:443/?type=tcp&encryption=none&flow=&sni=www.vk.com&fp=chrome&security=reality&pbk=24lsP7iRzgT7pMhCprlmHUB6_mbR17Pxc6P0R29f-Rk&sid=35e15c94#[OpenRay] %F0%9F%87%B7%F0%9F%87%BA RU-215 [4ms good @vlesstrojan]
 vless://0f6c83bc-34ba-4ca1-96e6-08b3620cbce5@217.16.19.114:443/?type=tcp&encryption=none&flow=&sni=www.vk.com&fp=chrome&security=reality&pbk=s0qb5ggFZN3X7QXWtgK4o7UgfS9DlpFC6JT6OWVs6X4&sid=a5d90165#[OpenRay] %F0%9F%87%B7%F0%9F%87%BA RU-218 [5ms good @vlesstrojan]
 vless://ad7a9316-1953-439a-854f-66355100a004@216.144.231.65:465?mode=gun&security=reality&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&pbk=bjmYfGsbMMVrbhhdbhKbOrsmmOq04rtsJP8xEyHAcUA&fp=chrome&type=grpc&serviceName=SMTP&sni=smtp.yandex.ru&sid=4c11446008#Join%2BTelegram%3A@Farah_VPN [19ms good @vlesstrojan]

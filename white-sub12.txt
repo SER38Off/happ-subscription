@@ -1,3 +1,9 @@
+#profile-title: FluxVPN⚡
+#support-url: www.flux-speed.ru
+#support-url: https://t.me/FluxVPNSup
+#profile-update-interval: 24
+#announce: UPD: 22.02.2026 15:00 |ТГК: @FluxVPNOff Сайт: www.flux-speed.ru
+################################
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#🇬🇧[openproxylist.com] ss-GB
 vless://07288721-1200-4c2f-a6ce-7ef59c4f8e22@78.159.247.74:5444?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=max.ru&amp;sid=6ba85179e30d4fc2#🇮🇹[openproxylist.com] vless-IT
 vmess://eyJhZGQiOiJjZzFjMTYud2FpbWFvamQuY29tIiwidiI6IjIiLCJwcyI6Ilx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlN1tvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtR0IiLCJwb3J0Ijo0NDMsImlkIjoiNmZjODRmZDItMDQ0Mi00MDVmLWJhYTctNmRhZjY2YjgxYTEwIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJjZzFjMTYud2FpbWFvamQuY29tIiwicGF0aCI6IlwvYXBpXC92MVwvZ3JhcGhxbCIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9

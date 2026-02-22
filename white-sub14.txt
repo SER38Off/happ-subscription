@@ -1,3 +1,9 @@
+#profile-title: FluxVPN⚡
+#support-url: www.flux-speed.ru
+#support-url: https://t.me/FluxVPNSup
+#profile-update-interval: 24
+#announce: UPD: 22.02.2026 15:00 |ТГК: @FluxVPNOff Сайт: www.flux-speed.ru
+################################
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#ALL-%40V2rayAlpha--30
 vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?path=%2F39427%2FNextlife&security=none&encryption=none&host=telewebion.com&type=ws#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@stf8bnl5r1c0vm.sheraitonldayh.lat:2052?mode=gun&security=reality&encryption=none&pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA&fp=chrome&type=grpc&sni=web.eitaa.com&sid=830b34f52730#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%A4%8D

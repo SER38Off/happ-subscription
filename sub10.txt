@@ -1,3 +1,9 @@
+#profile-title: FluxVPN⚡
+#support-url: www.flux-speed.ru
+#support-url: https://t.me/FluxVPNSup
+#profile-update-interval: 24
+#announce: UPD: 22.02.2026 15:00 |ТГК: @FluxVPNOff Сайт: www.flux-speed.ru
+################################
 vless://3be2a136-6d29-44b5-a609-30cbab4606e5@45.128.205.49:443?encryption=none&fp=chrome&pbk=zXgnuFbTwRSW3rHNHsCa2LMqTHwuXbASdOTzMAmfZnk&security=reality&sid=8fe3e889182160fb&sni=storage.yandexcloud.net&type=tcp#%F0%9F%87%A7%F0%9F%87%BE%20Belarus%20%5BSNI-RU%5D%20storage.yandexcloud.net
 vless://3be2a136-6d29-44b5-a609-30cbab4606e5@by3.keystrust.ru:443?encryption=none&fp=chrome&pbk=zXgnuFbTwRSW3rHNHsCa2LMqTHwuXbASdOTzMAmfZnk&security=reality&sid=8fe3e889182160fb&sni=storage.yandexcloud.net&type=tcp&name=TG%3AYoutubeUnBlockRu#%F0%9F%87%A7%F0%9F%87%BE%20Belarus%20%5BSNI-RU%5D%20storage.yandexcloud.net
 vless://e9dbc178-3656-40f8-8833-5023f306ef1d@est01-ss01.tcp-reset-club.net:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=stats.vk-portal.net&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5BSNI-RU%5D%20stats.vk-portal.net

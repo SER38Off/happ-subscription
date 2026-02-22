@@ -1,7 +1,9 @@
-#profile-title: www.flux-speed.ru
-#profile-traffic: 999 GB / ∞
-#profile-expiry: 2335
-#profile-count: 50
+#profile-title: FluxVPN⚡
+#support-url: www.flux-speed.ru
+#support-url: https://t.me/FluxVPNSup
+#profile-update-interval: 24
+#announce: UPD: 22.02.2026 15:00 |ТГК: @FluxVPNOff Сайт: www.flux-speed.ru
+################################
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?security=none&encryption=none&type=ws&path=/vless/#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B%2ACIDR%5D
 vless://0e87f2af-26e0-4e7c-ae12-ffd3d21ce935@185.39.206.212:9012?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=bridge.green.payload.network&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%5B%2ACIDR%5D
 vless://2eb94117-832f-4159-8b82-cc63f9feb5d1@176.122.25.13:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=fc7wwlzUfydHkCpOx0NTUCIScR0i66XtzGsoL_D4AVk&security=reality&sid=960ae214db9f1604&sni=eh.vk.ru&type=tcp#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20%5B%2ACIDR%5D

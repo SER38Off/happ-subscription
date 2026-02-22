@@ -1,3 +1,9 @@
+#profile-title: FluxVPN⚡
+#support-url: www.flux-speed.ru
+#support-url: https://t.me/FluxVPNSup
+#profile-update-interval: 24
+#announce: UPD: 22.02.2026 15:00 |ТГК: @FluxVPNOff Сайт: www.flux-speed.ru
+################################
 vless://cfe3363b-5b32-4e4e-a5fb-805fa0c91981@95.163.183.208:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=S32mlMTWidNhxQWDV5tmdU3a60i71alH5nVfl4GnyVQ&security=reality&sid=43e482b8ba87174b&sni=sun6-22.userapi.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%231
 vless://4371ad14-b981-4699-bedf-83fb79bde3e6@95.163.249.239:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=4b523a98e1bbd15b&sni=m.vk.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%232
 vless://4371ad14-b981-4699-bedf-83fb79bde3e6@217.16.27.217:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=3f200574d011010f&sni=m.ok.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%233

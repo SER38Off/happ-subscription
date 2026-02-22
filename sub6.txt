@@ -1,3 +1,9 @@
+#profile-title: FluxVPN⚡
+#support-url: www.flux-speed.ru
+#support-url: https://t.me/FluxVPNSup
+#profile-update-interval: 24
+#announce: UPD: 22.02.2026 15:00 |ТГК: @FluxVPNOff Сайт: www.flux-speed.ru
+################################
 vless://23b70080-d496-4429-8025-7ebbecd13a72@87.121.162.241:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=Wa3WLGe7MjXs_BHM8LJJaqd-6gxHMB8Yd0pBpkUM3k0&sni=google.com&sid=6449#%F0%9F%87%A6%F0%9F%87%B1%20Albania%2C%20Tirana%20%5BBL%5D
 vless://23b70080-d496-4429-8025-7ebbecd13a72@87.121.162.241:443?security=reality&encryption=none&pbk=Wa3WLGe7MjXs_BHM8LJJaqd-6gxHMB8Yd0pBpkUM3k0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=6449#%F0%9F%87%A6%F0%9F%87%B1%20Albania%2C%20Tirana%20%5BBL%5D
 vless://789fcf0a-f060-4a4e-b5cc-7951044f3254@141.98.188.98:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=oJyi6BdvesBHF41MuxyEVv8RXWFg6taweHTPovj6wVg&security=reality&sid=2ebb15bae5192c4b&sni=aza.fasssst.online&type=tcp&name=TG%3AYoutubeUnBlockRu#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%2C%20Yerevan%20%5BBL%5D

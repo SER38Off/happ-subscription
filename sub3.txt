@@ -1,3 +1,9 @@
+#profile-title: FluxVPN⚡
+#support-url: www.flux-speed.ru
+#support-url: https://t.me/FluxVPNSup
+#profile-update-interval: 24
+#announce: UPD: 22.02.2026 15:00 |ТГК: @FluxVPNOff Сайт: www.flux-speed.ru
+################################
 vless://3d4525a8-3345-4743-a1dd-0e6cca32b6e7@158.160.189.247:8443?security=reality&encryption=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=8f222b3475800821#%F0%9F%87%B5%F0%9F%87%B1%20Польша [Сервера не работают]%20%5B*CIDR%5D
 vless://4c186abf-c15f-4a73-af74-cdeb78d29d81@158.160.199.84:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=48fccabc158a4c22#%F0%9F%87%AA%F0%9F%87%B8%20Spain [Сервера не работают]%20%E2%80%94%20%23182
 vless://4c186abf-c15f-4a73-af74-cdeb78d29d81@158.160.199.84:443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=04bf0403f96e5b4b#%F0%9F%87%AA%F0%9F%87%B8%20Spain [Сервера не работают]%20%5B*CIDR%5D

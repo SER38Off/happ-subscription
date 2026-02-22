@@ -1,7 +1,9 @@
-#profile-title: www.flux-speed.ru
-#profile-traffic: 999 GB / ∞
-#profile-expiry: 2335
-#profile-count: 50
+#profile-title: FluxVPN⚡
+#support-url: www.flux-speed.ru
+#support-url: https://t.me/FluxVPNSup
+#profile-update-interval: 24
+#announce: UPD: 22.02.2026 15:00 |ТГК: @FluxVPNOff Сайт: www.flux-speed.ru
+################################
 vless://95abaefc-7861-417a-81b7-166cb788ce1a@185.177.238.18:2083?encryption=none&fp=chrome&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&security=reality&serviceName=UpdateService&sid=6da16b1335651b38&sni=apple.com&type=grpc#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B%2ACIDR%5D
 vless://95abaefc-7861-417a-81b7-166cb788ce1a@al.appav.online:2083?type=grpc&security=reality&encryption=none&flow=&fp=qq&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&sni=apple.com&serviceName=UpdateService#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B%2ACIDR%5D
 vless://95abaefc-7861-417a-81b7-166cb788ce1a@al.appav.online:2083?type=grpc&security=reality&encryption=none&fp=chrome&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&sni=apple.com&mode=gun&serviceName=UpdateService&authority=#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B%2ACIDR%5D

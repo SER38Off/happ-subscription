@@ -1,3 +1,9 @@
+#profile-title: FluxVPN⚡
+#support-url: www.flux-speed.ru
+#support-url: https://t.me/FluxVPNSup
+#profile-update-interval: 24
+#announce: UPD: 22.02.2026 15:00 |ТГК: @FluxVPNOff Сайт: www.flux-speed.ru
+################################
 vless://dac9a640-0098-45b1-b79f-dc14efb99237@145.249.109.184:24971?security=reality&encryption=none&pbk=rKYnrR2gfzRaRoR2OjvtKu82hoj3q8hLQr1cBbFE9ww&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=c293a1a091544f6c#🇪🇸[openproxylist.com] vless-ES
 vless://447c45cd-ade0-4bfe-90a0-3e581829f741@178.17.53.28:47539?security=reality&encryption=none&pbk=uapzi5mhLkADHuak0eXEKq9vIl2A8IGrMhjdIG-tn3U&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=82a55f31981ea6be#🇫🇮[openproxylist.com] vless-FI
 vless://4371ad14-b981-4699-bedf-83fb79bde3e6@176.108.242.76:443?security=reality&amp;encryption=none&amp;pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.vkvideo.ru&amp;sid=6354585c37827955#🇷🇺[openproxylist.com] vless-RU

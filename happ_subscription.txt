@@ -1,3 +1,9 @@
+#profile-title: FluxVPN⚡
+#support-url: www.flux-speed.ru
+#support-url: https://t.me/FluxVPNSup
+#profile-update-interval: 24
+#announce: UPD: 22.02.2026 15:00 |ТГК: @FluxVPNOff Сайт: www.flux-speed.ru
+################################
 vless://f6582786-13bd-4944-80f6-edbcaed00681@194.26.141.68:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=ZqNF3CGI5QqAm5huC9sByjwxYd-6l5Pxc9-njmqqdl0&fp=chrome&sni=max.ru&sid=d4d39c5f8688dfe2&type=tcp#Estonia-1
 vless://2e0fd045-2937-42a4-8d01-9ae2948b8620@45.129.199.174:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=ZqNF3CGI5QqAm5huC9sByjwxYd-6l5Pxc9-njmqqdl0&fp=chrome&sni=max.ru&sid=d4d39c5f8688dfe2&type=tcp#Estonia-2
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.54.18.233:443?type=ws&path=/?ed=2560&security=tls&sni=sni.111000.indevs.in&fp=chrome#Netherlands-1

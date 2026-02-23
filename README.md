@@ -2,6 +2,9 @@ FluxVPN⚡
 Официальный ТГК моего бесплатного VPN сервиса: https://t.me/FluxVPNOff
 Мой VPN полностью бесплатный без рекламы, платных подписок и привязок карт. Что бы сервис продалжал дальше работать подпишитесь пожалуйста на мой ТГК выше
 Всё тут👇
+Мой сайт: www.flux-speed.online
+www.flux-speed.ru
+sites.google.com/view/flux-vpn
 
 Тг бот: https://t.me/FluxVPNOff_bot
 

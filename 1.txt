@@ -1,3 +1,9 @@
+#profile-title: FluxVPN⚡
+#profile-web-page-url: https://www.flux-speed.ru
+#support-url: https://t.me/FluxVPNSup
+#profile-update-interval: 24
+#announce: UPD: 03.03.2026 15:00 |ТГК: @FluxVPNOff Сайт: www.flux-speed.ru
+################################
 vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=pqh30v5.carwashipdir.shop#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-9952
 vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?path=%2F39427%2FNextlife&security=none&encryption=none&host=telewebion.com&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-10804
 vless://309fa273-6579-4cb2-9143-7cad50401eba@85.208.108.136:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11172
